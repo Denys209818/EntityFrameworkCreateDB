@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\bin\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\bin\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\bin\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\obj\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\obj\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\obj\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\obj\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\obj\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.dll
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\obj\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.pdb
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\bin\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\bin\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\EFCreatingDatabase\EFCreatingDatabase.DAL\obj\Debug\netcoreapp3.1\EFCreatingDatabase.DAL.genruntimeconfig.cache
